@@ -1,0 +1,16 @@
+#lights {
+    width: 70px;
+    height: 170px;
+    background-color: #534e4e;
+    display: flex;
+    flex-direction: column;
+}
+#red {
+    margin: 10px auto;
+}
+#yellow {
+    margin: 10px auto;
+}
+#green {
+    margin: 10px auto;
+}
