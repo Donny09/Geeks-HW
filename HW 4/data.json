@@ -1,0 +1,62 @@
+[
+    {
+        "image": "images/1.jpeg",
+        "title": "Reebok-classic",
+        "price": "3839 ₽",
+        "description": "Мужские кеды"
+    },
+    {
+        "image": "images/2.jpeg",
+        "title": "Reebok white",
+        "price": "4269 ₽",
+        "description": "Мужские кеды"
+    },
+    {
+        "image": "images/3.jpeg",
+        "title": "Nike 1",
+        "price": "4480 ₽",
+        "description": "Мужские кроссовки"
+    },
+    {
+        "image": "images/4.jpeg",
+        "title": "Vans",
+        "price": "2600 ₽",
+        "description": "Универсальные кеды"
+    },
+    {
+        "image": "images/5.jpeg",
+        "title": "Nike Dunk",
+        "price": "2900 ₽",
+        "description": "кроссовки баскетбольные"
+    },
+    {
+        "image": "images/6.jpeg",
+        "title": "Nike force",
+        "price": "4200 ₽",
+        "description": "Кроссовки стильные"
+    },
+    {
+        "image": "images/7.jpeg",
+        "title": "ТОто rino",
+        "price": "2580 ₽",
+        "description": "Бархатные тяги"
+    },
+    {
+        "image": "images/8.jpeg",
+        "title": "Demix",
+        "price": "3800 ₽",
+        "description": "Кроссовки"
+    },
+    {
+        "image": "images/9.jpeg",
+        "title": "AF1",
+        "price": "5000 ₽",
+        "description": "Кроссовки"
+    },
+    {
+        "image": "images/10.jpeg",
+        "title": "AJ4",
+        "price": "4000 ₽",
+        "description": "Shoes"
+    }
+]
